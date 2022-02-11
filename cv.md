@@ -34,7 +34,7 @@ Also for the sake of testing code quoting functionality of Github markdown I wan
 ### Experience  
 There's [my HTML/CSS project](https://github.com/as-tall/sedona) from HTML Academy intensive.
 ### Education  
-I use this platforms:
+I use this platforms:  
 [CodeAcademy](https://www.codecademy.com)  
 [HTML Academy](https://htmlacademy.ru)  
 [freeCodeCamp](https://www.freecodecamp.org/)  
