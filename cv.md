@@ -31,7 +31,7 @@ Also for the sake of testing code quoting functionality of Github markdown I wan
   
   <div></div>
   ```
-  ### Experience  
+### Experience  
 There's [my HTML/CSS project](https://github.com/as-tall/sedona) from HTML Academy intensive.
 ### Education  
 I use this platforms:
