@@ -8,7 +8,7 @@ I've been learning programming for a while and now I want to be going somewhere 
 ### Skills
 I'm a bit experienced with HTML5 and CSS3 and I also have had to deal with some JS.
 ### Code Examples
-There's [my Codepen page](https://codepen.io/as-tallgit)
+There's [my Codepen page](https://codepen.io/as-tallgit)  
 Also for the sake of testing code quoting functionality of Github markdown I want to share this example:  
 ```
 <style>
@@ -31,3 +31,5 @@ Also for the sake of testing code quoting functionality of Github markdown I wan
   
   <div></div>
   ```
+  ### Experience
+There's [my HTML/CSS project](https://github.com/as-tall/sedona) from HTML Academy intensive.
