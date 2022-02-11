@@ -26,16 +26,18 @@ Also for the sake of testing code quoting functionality of Github markdown I wan
         black 85px
       );
     }
-  
-  </style>
+    
+</style>
   
   <div></div>
   ```
-  ### Experience
+  ### Experience  
 There's [my HTML/CSS project](https://github.com/as-tall/sedona) from HTML Academy intensive.
-### Education
+### Education  
 I use this platforms:
 [CodeAcademy](https://www.codecademy.com)  
 [HTML Academy](https://htmlacademy.ru)  
 [freeCodeCamp](https://www.freecodecamp.org/)  
-and now [RS School](https://rs.school)
+[RS School](https://rs.school)
+### English  
+According to some tests, my current level of English language is somewhere inbetween of B1 and B2. Thanks to all the song lyrics that I have translated!
